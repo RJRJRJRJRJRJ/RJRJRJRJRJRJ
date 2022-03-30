@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Wall of bricks Assets
+* source:	https://sketchfab.com/3d-models/medieval-wall-of-bricks-assets-3ca0a433138c4c4299da7a2b03eecc28
+* author:	nathan.arditti (https://sketchfab.com/nathan.arditti)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Wall of bricks Assets" (https://sketchfab.com/3d-models/medieval-wall-of-bricks-assets-3ca0a433138c4c4299da7a2b03eecc28) by nathan.arditti (https://sketchfab.com/nathan.arditti) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
