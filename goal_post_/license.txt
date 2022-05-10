@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goal Post monochrome room
+* source:	https://sketchfab.com/3d-models/goal-post-monochrome-room-ec94b879d5284fa98a32205d2effef40
+* author:	erg112 (https://sketchfab.com/erg112)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goal Post monochrome room" (https://sketchfab.com/3d-models/goal-post-monochrome-room-ec94b879d5284fa98a32205d2effef40) by erg112 (https://sketchfab.com/erg112) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
