@@ -1,0 +1,369 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9895379543304443,
+        0.9933352470397949,
+        0.9699940085411072
+      ],
+      "min": [
+        -0.9927972555160522,
+        -0.9934553503990173,
+        -0.9898061156272888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9998481273651123,
+        0.9998323917388916,
+        0.999924898147583
+      ],
+      "min": [
+        -0.9999556541442871,
+        -0.9999849796295166,
+        -0.9999152421951294
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999493956565857,
+        0.9969165325164795,
+        0.9999999403953552,
+        1.0
+      ],
+      "min": [
+        -0.9999954104423523,
+        -0.9996411800384521,
+        -0.9999924302101135,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9922561645507813,
+        0.472382128238678
+      ],
+      "min": [
+        0.0,
+        0.004126077983528376
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 225813,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 33175,
+      "max": [
+        0.9929889440536499,
+        0.9926031827926636,
+        0.9697181582450867
+      ],
+      "min": [
+        -0.9927972555160522,
+        -0.9923903346061707,
+        -0.9931343793869019
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1970868,
+      "componentType": 5126,
+      "count": 33175,
+      "max": [
+        0.999997615814209,
+        0.9997066259384155,
+        0.999822735786438
+      ],
+      "min": [
+        -0.9999300241470337,
+        -0.9998666048049927,
+        -0.9999650716781616
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 33175,
+      "max": [
+        0.9999992251396179,
+        0.9995631575584412,
+        0.9999982118606567,
+        1.0
+      ],
+      "min": [
+        -0.9999979138374329,
+        -0.991420328617096,
+        -0.999999463558197,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 33175,
+      "max": [
+        0.9943430423736572,
+        0.4637063145637512
+      ],
+      "min": [
+        0.01512644812464714,
+        0.008473090827465057
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 903252,
+      "componentType": 5125,
+      "count": 102171,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tkkjee (https://sketchfab.com/tkkjee)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/planet-cartoon-24542338dc034c1ebd7211d13d7a61b6",
+      "title": "planet cartoon"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1311936,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 789656,
+      "byteOffset": 1311936,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2368968,
+      "byteOffset": 2101592,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1579312,
+      "byteOffset": 4470560,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6049872,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/planet.001_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "planet.001",
+      "normalTexture": {
+        "index": 0,
+        "scale": 0.06251596152209074
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.21217737384751478,
+          0.08235590452238205,
+          0.0353580258200556,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8165078621897385
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.2570925229963373,
+        0.8220746625927692,
+        -0.019865040269610456,
+        0.0,
+        -0.2549641317540089,
+        0.059902418712888324,
+        -0.8207942713946491,
+        0.0,
+        -0.781789414871087,
+        0.2508044794802278,
+        0.2611519863043861,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Icosphere.001_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
